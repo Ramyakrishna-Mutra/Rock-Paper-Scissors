@@ -1,4 +1,3 @@
-# Rock-Paper-Scissors
 <!DOCTYPE html>
 <html>
   <head>
